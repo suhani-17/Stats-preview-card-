@@ -1,15 +1,17 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [links](#solution-url&live-site-url)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
@@ -17,22 +19,33 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- See hover states for interactive elements
+- View the optimal layout depending on their device's screen size
+
+### Links
+
+- Solution URL: (https://suhani-17.github.io/Stats-preview-card-/)
+- Live Site URL: (https://github.com/suhani-17)
 
 ### Built with
 
-- HTML
+- Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- Flexbox
 
 ### What I learned
 
-I learned how to use css grid property, about scalable vector graphics (SVG). learnt the use of positon property like when should we use absolute or relative and adjust elements accordingly.
+Through this challenge I learned how to position elements using flexbox. also, how to use overlay color effect on the image that was what i found difficult as i was looking through filter property but couldn't find the solution.
 
 ### Continued development
 
-I learned the things i mentioned above but i'm not quite comfortable with them so i want to focus on refining them.
+this challenge is the first one where i used flexbox so this concept is rather new to me and i want to refine it so that i can position elements with flexbox properly.
 
 ### Useful resources
 
-- W3Schools(https://www.w3schools.com/) - This helped me for understanding css grid. It provides us with examples and an editor so we can try out ourselves.
+- [w3schools](https://www.w3schools.com/) - This helped me apply various css design property like border-radius. I really liked this pattern and will use it going forward.
+- [apna college youtube channel](https://youtu.be/zts6uNVnCNs) - This is an amazing video which helped me finally understand how to position elements using flexbox. I'd recommend it to anyone still learning this concept.
+
+## Author
+
+- Website - [Suhani Jain](https://github.com/suhani-17)
+- Frontend Mentor - [@suhani-17](https://www.frontendmentor.io/profile/suhani-17)
